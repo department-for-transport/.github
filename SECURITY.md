@@ -1,1 +1,1 @@
-This is security stuff
+A security policy is currently under construction
