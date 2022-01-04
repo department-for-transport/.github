@@ -17,7 +17,6 @@
 </p>
 <h2>Our Standards</h2>
 <p>Examples of behaviour that contributes to creating a positive environment include:<p>
-</br>
 <ul>
   <li> Using welcoming and inclusive language </li>
   <li> Being respectful of differing viewpoints and experiences </li>
