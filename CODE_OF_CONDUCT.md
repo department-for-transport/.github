@@ -11,7 +11,7 @@
   <li>Where the code of conduct says "maintainer" we mean DfT organisation owners.</li>
   <li>Where the code of conduct says "leadership" we mean both DfT organisation owners, line managers, and other leadership within DfT</li>
 </ul>
-<h3>Our Pledge</h3>
+<h2>Our Pledge</h2>
 <p>
   In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
 </p>
