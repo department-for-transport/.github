@@ -1,25 +1,33 @@
-Code of conduct for DfT code repositories
-Contributors to repositories hosted in DfT repositories are expected to follow the Contributor Covenant Code of Conduct, and those working within Government are also expected to follow the Civil Service Code
-Contributor Covenant Code of Conduct
-Note:
-where the code of conduct says "project" we mean DfT and all repositories hosted within it.
-where the code of conduct says "maintainer" we mean DfT organisation owners
-where the code of conduct says "leadership" we mean both DfT organisation owners, line managers, and other leadership within DfT
+<h1>Code of conduct for DfT code repositories</h1>
+
+<p>Contributors to repositories hosted in DfT repositories are expected to follow the Contributor Covenant Code of Conduct, and those working within Government are also expected to follow the Civil Service Code.</p>
+<h2>Contributor Covenant Code of Conduct</h2>
+<strong>Note:</strong></br>
+<ul>
+  <li>Where the code of conduct says "project" we mean DfT and all repositories hosted within it.</li>
+  <li>Where the code of conduct says "maintainer" we mean DfT organisation owners.</li>
+  <li>Where the code of conduct says "leadership" we mean both DfT organisation owners, line managers, and other leadership within DfT</li>
+</ul>
+
+
 Our Pledge
 In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
 Our Standards
 Examples of behaviour that contributes to creating a positive environment include:
-•	Using welcoming and inclusive language
-•	Being respectful of differing viewpoints and experiences
-•	Gracefully accepting constructive criticism
-•	Focusing on what is best for the community
-•	Showing empathy towards other community members
+<ul>
+  <li> Using welcoming and inclusive language </li>
+  <li> Being respectful of differing viewpoints and experiences </li>
+  <li> Gracefully accepting constructive criticism </li>
+  <li> Focusing on what is best for the community </li>
+  <li> Showing empathy towards other community members </li>
+</ul>
 Examples of unacceptable behaviour by participants include:
 •	The use of sexualized language or imagery and unwelcome sexual attention or advances
 •	Trolling, insulting/derogatory comments, and personal or political attacks
 •	Public or private harassment
 •	Publishing others' private information, such as a physical or electronic address, without explicit permission
 •	Other conduct which could reasonably be considered inappropriate in a professional setting
+
 Our Responsibilities
 Project maintainers are responsible for clarifying the standards of acceptable behaviour and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behaviour.
 Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any contributor for other behaviours that they deem inappropriate, threatening, offensive, or harmful.
