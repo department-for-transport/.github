@@ -1,19 +1,24 @@
 <h1>Code of conduct for DfT code repositories</h1>
 
-<p>Contributors to repositories hosted in DfT repositories are expected to follow the Contributor Covenant Code of Conduct, and those working within Government are also expected to follow the Civil Service Code.</p>
+<p>
+  Contributors to repositories hosted in DfT repositories are expected to follow the Contributor Covenant Code of Conduct, and those working within Government are also           expected to follow the Civil Service Code.
+</p>
 <h2>Contributor Covenant Code of Conduct</h2>
-<strong>Note:</strong></br>
+<strong>Note:</strong>
+</br>
 <ul>
   <li>Where the code of conduct says "project" we mean DfT and all repositories hosted within it.</li>
   <li>Where the code of conduct says "maintainer" we mean DfT organisation owners.</li>
   <li>Where the code of conduct says "leadership" we mean both DfT organisation owners, line managers, and other leadership within DfT</li>
 </ul>
+<h3>Our Pledge</h3>
+<p>
+  In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a            harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal          appearance, race, religion, or sexual identity and orientation.
+</p>
 
-
-Our Pledge
-In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
 Our Standards
-Examples of behaviour that contributes to creating a positive environment include:
+<p>Examples of behaviour that contributes to creating a positive environment include:
+</br>
 <ul>
   <li> Using welcoming and inclusive language </li>
   <li> Being respectful of differing viewpoints and experiences </li>
