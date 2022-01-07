@@ -51,4 +51,4 @@ Further reading and inspiration about responsible disclosure and SECURITY.md
 * https://mojdigital.blog.gov.uk/vulnerability-disclosure-policy/
 * https://www.ncsc.gov.uk/information/vulnerability-reporting
 
-Code of Conduct
+[DfT code of conduct](CODE_OF_CONDUCT.md)
