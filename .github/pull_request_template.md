@@ -1,8 +1,8 @@
-# As a contributor 
-By submitting this PR I am confirming I have read and understood the Github Standards document and understand the role I play in ensuring standards, security, and assuance at DfT.
+## As a contributor 
+By submitting this PR I confirm I have read and understood the Github Standards document and understand the role I play in ensuring standards, security, and assurance at DfT.
 
-# As a PR review
-by accepting this PR I understand my responsibilitis as described in the the Github standards document.
+## As a PR reviewer
+By accepting this PR I understand my responsibilitis as described in the the Github standards document.
 
 
 # Proposed changes
