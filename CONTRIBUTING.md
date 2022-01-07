@@ -1,12 +1,12 @@
 # Contributing to repositories at DfT
 
-The following is a set of guidlines taken from the GitHub standards document for creating and contributing to repos at DfT
+The following is a set of guidelines taken from the GitHub standards document for creating and contributing to repos at DfT.
 
 ## What I should know before I start
 
 ### Github standards
 
-The Github standards documnet describes best practice when using the platform, advising on common processes that ensure that we protect the department and oursleves for any mishaps that may result in awkward meetings without any coffee. Make sure you have read the document and are confident with its contents and any obigations you may have. Any questions should be raised through the community of practice, tech leads, or any of the points of contact identified.  
+The Github standards document describes best practice when using the platform, advising on common processes that ensure that we protect the department and ourselves. The aim is to prevemt any mishaps that may result in awkward meetings without any coffee. Make sure you have read the document and are confident with its contents and any obigations you may have. Any questions should be raised through the community of practice, tech leads, or any of the points of contact identified.  
 
 ### Undstanding roles and responsibilities 
 
@@ -24,12 +24,12 @@ Where possible use the templates provided. If these don't cover exactly what you
 
 ### Team specifics
 
-Each team at DfT may have their own naming conventions, templates, and preferences. Make sure you are familiar with what is required in the area of work in which you find yourself.  
+Each team at DfT may have their own naming conventions, templates, and preferences. Make sure you are familiar with what is required in your specific area of work.  
 
 ### Is it clear
 
-Whether submitting a PR, raising a bug report, or a feature request use clear and concise titles, language, and descriptions. 
+Whether submitting a PR, raising a bug report, or a feature request, make sure you are using clear and concise titles, language, and descriptions. 
 
 #### Hopefully this sets the tone of what is expected when using repos at DfT 
 
-If anything is missing from this document raise a feature request or if you have any questions reach out to the Github contacts within the department. 
+If anything is missing from this document, please raise a feature request! If you have any questions reach out to the Github contacts within the department. 
