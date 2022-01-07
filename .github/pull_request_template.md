@@ -2,7 +2,7 @@
 By submitting this PR I confirm I have read and understood the Github Standards document and understand the role I play in ensuring standards, security, and assurance at DfT.
 
 ## As a PR reviewer
-By accepting this PR I understand my responsibilitis as described in the the Github standards document.
+By accepting this PR I understand my responsibilities as described in the the Github standards document.
 
 
 # Proposed changes
