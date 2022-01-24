@@ -1,4 +1,11 @@
-## Proposed changes
+## As a contributor 
+By submitting this PR I confirm I have read and understood the Github Standards document and understand the role I play in ensuring standards, security, and assurance at DfT.
+
+## As a PR reviewer
+By accepting this PR I understand my responsibilities as described in the the Github standards document.
+
+
+# Proposed changes
 
 Describe the big picture of your changes here to make it clear what your pull request will change. Make sure to explain the **what** e.g. the functionality it changes not the **how** e.g. what code you have written.  If it fixes a bug or resolves a feature request, be sure to link to that issue.
 
