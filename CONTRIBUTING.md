@@ -4,13 +4,13 @@ The following is a set of guidelines taken from the GitHub standards document fo
 
 ## What I should know before I start
 
-### Github standards
+### GitHub standards
 
-The Github standards document describes best practice when using the platform, advising on common processes that ensure that we protect the department and ourselves. The aim is to prevemt any mishaps that may result in awkward meetings without any coffee. Make sure you have read the document and are confident with its contents and any obigations you may have. Any questions should be raised through the community of practice, tech leads, or any of the points of contact identified.  
+The GitHub standards document describes best practice when using the platform, advising on common processes that ensure that we protect the department and ourselves. The aim is to prevent any mishaps that may result in awkward meetings without any coffee. Make sure you have read the document and are confident with its contents and any obligations you may have. Any questions should be raised through the community of practice, tech leads, or any of the points of contact identified.  
 
-### Undstanding roles and responsibilities 
+### Understanding roles and responsibilities 
 
-The Github standards document describes the roles of Contributor, Repository Lead, Project Lead, or Technical Lead. Make sure whichever you are using one is identified for the repo you are creating or contributing to.  
+The GitHub standards document describes the roles of Contributor, Repository Lead, Project Lead, or Technical Lead. Make sure whichever you are using one is identified for the repo you are creating or contributing to.  
 
 ### Code of Conduct
 
@@ -32,4 +32,4 @@ Whether submitting a PR, raising a bug report, or a feature request, make sure y
 
 #### Hopefully this sets the tone of what is expected when using repos at DfT 
 
-If anything is missing from this document, please raise a feature request! If you have any questions reach out to the Github contacts within the department. 
+If anything is missing from this document, please raise a feature request! If you have any questions reach out to the GitHub contacts within the department. 
