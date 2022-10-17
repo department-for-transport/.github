@@ -27,6 +27,7 @@ A clear and concise description of what you expected to happen.
 
 Were you running the code on:
 
+- [ ] Cloud R
 - [ ] Your network laptop
 - [ ] Citrix
 - [ ] Non-network laptop
