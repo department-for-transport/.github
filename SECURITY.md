@@ -29,7 +29,7 @@ Then plesae still reach out via email.
 
 Guidelines for reporting a vulnerability
 
-When you are investigating and reporting the vulnerability on a DtF domain or subdomain, you must not:
+When you are investigating and reporting the vulnerability on a DfT domain or subdomain, you must not:
 
 * break the law
 * access unnecessary or excessive amounts of data
